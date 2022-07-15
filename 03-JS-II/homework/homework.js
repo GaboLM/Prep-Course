@@ -119,7 +119,7 @@ function fizzBuzz(numero) {
   else if(numero % 5 === 0) {
     return 'buzz';
   }
-  else if(numero %  === 0) {
+  else if(numero % 3 === 0) {
     return 'fizz';
   }
   else {
