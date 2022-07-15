@@ -5,7 +5,7 @@ entrar al mundo del Desarrollo Full Stack -- JS --
 
 Prototype podemos definirlas como funciones que estan dentyro de una clase, y que se puede utilizar en objetos dentro de la misma clase
 
-Constructors (de Clases) son todas las propiedades que va a tener nuestra clase, que van a hacer heredadas en los objetos contenidos.
+Constructors (de Clases) son todas las propiedades que va a tener nuestra clase, que van a ser heredadas en los objetos contenidos.
 
 
 
