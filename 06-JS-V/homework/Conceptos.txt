@@ -3,17 +3,9 @@
 Algunas palabras claves que debes saber antes de 
 entrar al mundo del Desarrollo Full Stack -- JS --
 
-Objetos: son contenedores de datos, con la particularidad, que tienen llaves, o un nombre especifico, aa cada tipo de datos.
+Prototype podemos definirlas como funciones que estan dentyro de una clase, y que se puede utilizar en objetos dentro de la misma clase
 
-Propiedades: definir como se va a comportar el objeto
-
-Métodos: son las funciones guardadas en un objeto
-
-Bucle for…in: lo utilizamos cuando queremos recorrer las la informacion contenida en un objeto.
-
-Notación de puntos vs notación de corchetes: son dos formas de acceder a la informacion de un objeto, con la notación de corchetes podemos modificar el objeto
-
-
+Constructors (de Clases) son todas las propiedades que va a tener nuestra clase, que van a hacer heredadas en los objetos contenidos.
 
 
 
