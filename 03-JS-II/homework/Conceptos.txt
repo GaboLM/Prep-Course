@@ -3,16 +3,12 @@
 Algunas palabras claves que debes saber antes de 
 entrar al mundo del Desarrollo Full Stack
 
-Una variable es una caja, donde le ponemos un nombre, y podemos agregar diferentes cosas o datos.
+for
+&&
+||
+!
 
-si le agregamos un numero, lo llamaremos Numbers
-si le agregamos palabras, lo llamaremos Strings
-si le agregamos un numero, lo llamaremos Numbers
-si le agregamos un pregunta para responder, verdadero o falso
 
-Podemos hacer funciones, creando ordenes a nuestra computadora por medio de condiciones.
-
-Utilizaremos palabras como : if, else, else if, return, while, etc
 
 
 
