@@ -3,10 +3,12 @@
 Algunas palabras claves que debes saber antes de 
 entrar al mundo del Desarrollo Full Stack
 
-for
-&&
-||
-!
+for	lo utilizaremos para iniciar un ciclo
+&&	para adicionaar mas condiciones en una funcion con el fin que se cumplan todas ellas
+||	para adicionaar mas condiciones en una funcion con el fin que se cumpla alguna de ellas
+!	para hacer una negacion
+
+
 
 
 
