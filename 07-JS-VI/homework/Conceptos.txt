@@ -1,0 +1,7 @@
+ *** Soy Henry ***
+
+Algunas palabras claves que debes saber antes de 
+entrar al mundo del Desarrollo Full Stack -- JS --
+
+Funciones Callback son aquelas que pasan como un argumento a otra funcion
+ 
